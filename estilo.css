@@ -1,0 +1,36 @@
+
+
+h1, p {
+    text-align: center;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    text-align: center; 
+}
+
+
+.numero1 {
+    color: red;
+}
+
+.numero2 {
+    color: blue;
+}
+
+.numero3 {
+    color: green;
+}
+
+.numero4 {
+    color: orange;
+}
+
+.numero5 {
+    color: purple;
+}
